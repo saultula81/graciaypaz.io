@@ -1,2 +1,2 @@
-# graciaypaz.io
-web radio 
+# cristoeslaluz.io
+ app de la radio
